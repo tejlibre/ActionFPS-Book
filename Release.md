@@ -7,11 +7,11 @@ ez
 * Edit source/src/cube.h
 * Edit source/vcpp/buildEnv/ac.nsi
 
-## Build Windows installer
+## Build Packages
 
 Requirements : NSIS, ..?
 
-* Run build scripts in source/vcpp/buildEnv/
+* Run build scripts in source/vcpp/buildEnv/ on windows
 * Upload windows_client.exe to ??? on a linux machine
 * Run source/release/package_assaultcube.sh github_user github_apikey on this linux machine
 
