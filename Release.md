@@ -9,7 +9,7 @@ ez
 
 ## Build Packages
 
-Requirements : NSIS, \Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe
+Requirements : NSIS, http://nsis.sourceforge.net/mediawiki/images/8/8a/GetVersion.zip, \Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe
 
 * Run build scripts in source/vcpp/buildEnv/ on windows
 * Upload windows_client.exe to ??? on a linux machine
