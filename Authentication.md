@@ -1,3 +1,10 @@
+## User database
+
+Update : ssh from actionfps
+Format :
+
+## Authentication process
+
  * Use public/private key authentication, DSA method
   * user connects to server
   * server answers random challenge
