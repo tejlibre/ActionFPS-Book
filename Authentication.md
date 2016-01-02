@@ -10,7 +10,7 @@ User {
     * nicknames
     * groups
     * admins
-    * pubkey
+    * pubkey (2048,256)
 
 }
 
