@@ -14,6 +14,9 @@ User {
 
 }
 
+### In Memory
+Vector for now? http://www.cplusplus.com/reference/unordered_map/unordered_map/ ? c++11 necessary?
+
 ### Storage
 
 users.csvgz, i.e. gzipped tab separated values
