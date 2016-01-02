@@ -4,11 +4,13 @@ Update : ssh from actionfps
 Format :+1: 
 
 User {
+
     * id
     * nicknames
     * groups
     * admins
     * pubkey
+
 }
 
 ## Authentication process
