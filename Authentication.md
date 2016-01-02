@@ -1,7 +1,8 @@
 ## User database
 
 Update : ssh from actionfps
-Format :+1: 
+Format : 
+
 
 User {
 
@@ -12,6 +13,10 @@ User {
     * pubkey
 
 }
+
+### Storage
+
+users.csvgz, i.e. gzipped tab separated values
 
 ## Authentication process
 
