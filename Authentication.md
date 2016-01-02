@@ -12,3 +12,7 @@ Format :
   * server verifies(pub_key, signature, challenge + server_id)
 
 (see https://www.openssl.org/docs/manmaster/crypto/DSA_sign.html)
+
+## Log messages
+
+[ip] -> [user:ip]
