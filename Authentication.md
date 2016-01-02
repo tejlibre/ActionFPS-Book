@@ -1,7 +1,15 @@
 ## User database
 
 Update : ssh from actionfps
-Format :
+Format :+1: 
+
+User {
+    * id
+    * nicknames
+    * groups
+    * admins
+    * pubkey
+}
 
 ## Authentication process
 
