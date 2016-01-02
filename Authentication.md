@@ -15,7 +15,7 @@ User {
 }
 
 ### In Memory
-Vector for now? http://www.cplusplus.com/reference/unordered_map/unordered_map/ ? c++11 necessary?
+Vector for now? http://www.cplusplus.com/reference/unordered_map/unordered_map/ ? c++11 necessary? Or just go for http://www.cplusplus.com/reference/map/map/
 
 ### Storage
 
