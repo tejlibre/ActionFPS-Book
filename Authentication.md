@@ -25,12 +25,17 @@ users.tsvgz, i.e. gzipped tab separated values
 
  * Use public/private key authentication, DSA method
   * user connects to server
-  * server answers random challenge
-  * user answers ID and signature(priv_key, challenge + server_id)
+  * server answers random challenge along with SV_SERVINFO
+  * user answers ID and signature(priv_key, challenge + server_id) along with SV_CONNECT
   * server verifies(pub_key, signature, challenge + server_id)
+
+This does not require authentication-specific "SV" messages, which is more natural because authentication is required.
+The user gets disconnected if the signature verification fails or if the corresponding user is banned.
 
 (see https://www.openssl.org/docs/manmaster/crypto/DSA_sign.html)
 
 ## Log messages
 
 [ip] -> [user:ip]
+
+compute on SV_CONNECT'ion. client::identity = format("%s:%s", cl->u->id, cl->hostname)
