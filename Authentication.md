@@ -20,6 +20,8 @@ Vector for now? http://www.cplusplus.com/reference/unordered_map/unordered_map/ 
 ### Storage
 
 users.tsvgz, i.e. gzipped tab separated values
+reloading : client::u pointer changes. store uid rather pointer to struct user ? (and call usermanager::find(cl::uid) everytime ?) probably better yes, *IF* usermanager::find is fast enough.
+can also recompute pointers. and kick players with no pointer matching after reload.
 
 ## Authentication process
 
