@@ -25,7 +25,7 @@ users.tsvgz, i.e. gzipped tab separated values
 
  * Use public/private key authentication, DSA method
   * user connects to server
-  * server answers random challenge along with SV_SERVINFO
+  * server answers random challenge along with SV_SERVINFO (challenge = openssl crypto safe RAND_bytes + serverid)
   * user answers ID and signature(priv_key, challenge + server_id) along with SV_CONNECT
   * server verifies(pub_key, signature, challenge + server_id)
 
