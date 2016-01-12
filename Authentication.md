@@ -27,9 +27,9 @@ can also recompute pointers. and kick players with no pointer matching after rel
 
  * Use public/private key authentication, DSA method
   * user connects to server
-  * server answers random challenge along with SV_SERVINFO (challenge = openssl crypto safe RAND_bytes + serverid)
-  * user answers ID and signature(priv_key, challenge + server_id) along with SV_CONNECT
-  * server verifies(pub_key, signature, challenge + server_id)
+  * server answers random challenge along with SV_SERVINFO (challenge = sha1(openssl crypto safe RAND_bytes + serverid))
+  * user answers ID and signature(priv_key, challenge) along with SV_CONNECT
+  * server verifies(pub_key, signature, challenge)
 
 This does not require authentication-specific "SV" messages, which is more natural because authentication is required.
 The user gets disconnected if the signature verification fails or if the corresponding user is banned.
