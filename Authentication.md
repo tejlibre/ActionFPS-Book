@@ -34,7 +34,7 @@ can also recompute pointers. and kick players with no pointer matching after rel
 This does not require authentication-specific "SV" messages, which is more natural because authentication is required.
 The user gets disconnected if the signature verification fails or if the corresponding user is banned.
 
-(see https://www.openssl.org/docs/manmaster/crypto/DSA_sign.html)
+(see https://www.openssl.org/docs/manmaster/crypto/DSA_sign.html or http://au2.php.net/manual/en/function.openssl-sign.php, better documented)
 
 ## Log messages
 
