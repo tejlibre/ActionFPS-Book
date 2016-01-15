@@ -45,3 +45,7 @@ REQUIRES OPENSSL >= 1.0.0e https://blog.opentrust.com/?p=174
 compute on SV_CONNECT'ion. client::identity = format("%s:%s", cl->u->id, cl->hostname)
 
 ## Database
+
+config/users.gz
+
+config/group.gz
