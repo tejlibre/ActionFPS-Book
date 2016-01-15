@@ -49,3 +49,5 @@ compute on SV_CONNECT'ion. client::identity = format("%s:%s", cl->u->id, cl->hos
 config/users.gz
 
 config/group.gz
+
+Example + php generation script : https://gist.github.com/lucasgautheron/17464926f5ea0ddc555d
