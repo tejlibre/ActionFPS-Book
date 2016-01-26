@@ -37,6 +37,7 @@ The user gets disconnected if the signature verification fails or if the corresp
 (see https://www.openssl.org/docs/manmaster/crypto/DSA_sign.html or http://au2.php.net/manual/en/function.openssl-sign.php, better documented also https://www.openssl.org/docs/manmaster/crypto/pem.html)
 
 REQUIRES OPENSSL >= 1.0.0e https://blog.opentrust.com/?p=174
+http://www.npcglib.org/~stathis/blog/precompiled-openssl/
 
 ## Log messages
 
