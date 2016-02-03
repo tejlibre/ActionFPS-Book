@@ -7,6 +7,7 @@ ez
 * Edit source/src/cube.h
 * Edit source/vcpp/buildEnv/ac.nsi
 * Edit actionfps_release.bat
+* Edit actionfps.sh
 
 ## Build Packages
 
