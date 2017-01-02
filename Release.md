@@ -14,7 +14,7 @@ ez
 Requirements : NSIS, http://nsis.sourceforge.net/mediawiki/images/8/8a/GetVersion.zip, \Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe
 
 * Run build scripts in source/vcpp/buildEnv/ on windows
-* Upload windows_client.exe to ??? on a linux machine
+* Upload windows_client.exe to source/release on a linux machine
 * Run source/release/package_assaultcube.sh github_user github_apikey on this linux machine
 
 
