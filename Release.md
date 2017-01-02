@@ -18,3 +18,8 @@ Requirements : NSIS, http://nsis.sourceforge.net/mediawiki/images/8/8a/GetVersio
 * Run source/release/package_assaultcube.sh github_user github_apikey on this linux machine
 
 
+### Linux
+```
+sudo apt-get -y install clang libsdl1.2-dev
+cd source/src && make
+```
