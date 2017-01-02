@@ -20,6 +20,12 @@ Requirements : NSIS, http://nsis.sourceforge.net/mediawiki/images/8/8a/GetVersio
 
 ### Linux
 ```
-sudo apt-get -y install clang libsdl1.2-dev libogg-dev
+sudo apt-get -y install \
+  clang \
+  libsdl1.2-dev \
+  libogg-dev \
+  libsdl-image1.2-dev \
+  libopenal-dev \
+  libvorbis-dev
 cd source/src && make
 ```
