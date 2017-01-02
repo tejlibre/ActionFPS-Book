@@ -30,6 +30,8 @@ sudo apt-get -y install \
   libogg-dev \
   libsdl-image1.2-dev \
   libopenal-dev \
-  libvorbis-dev
+  libvorbis-dev \
+  openssl \
+  libssl-dev
 cd source/src && make
 ```
