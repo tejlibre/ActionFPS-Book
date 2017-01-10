@@ -4,7 +4,9 @@ We welcome any contribution very much!
 
 ### Live discussion
 
-If you want us to forget, use [Discord](https://discord.gg/YB35KE3). If you want use to remember, use a GitHub issue, such as [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) and  [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues).
+If you want us to forget/discuss, use [Discord](https://discord.gg/YB35KE3).
+
+If you want use to remember, use a GitHub issue, such as [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) and  [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues).
 
 ### When you have an initial idea
 
@@ -42,3 +44,7 @@ If you want us to forget, use [Discord](https://discord.gg/YB35KE3). If you want
 
 * To write Markdown, use the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 * To make changes to the Portal, see the [Development Guide](https://github.com/ScalaWilliam/ActionFPS/wiki/Development-Guide)
+
+## Etiquette
+
+[Don't play ping pong when asking questions](http://woop.us/2108)
