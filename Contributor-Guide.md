@@ -28,6 +28,7 @@ If you want us to forget, use [Discord](https://discord.gg/YB35KE3). If you want
 | Chattiness | Share ActionFPS online | Share ActionFPS online |
 | Organisation skills | Help organise games and user flow | Help organise user flow |
 | Copywriting | Writing blog posts and documentation | Documentation |
+| Video skills<br>Media skills | Share on YouTube or other places and also with us | Share on YouTube or other places and also with us |
 | Game time | Play on ActionFPS & its tournaments | Play on ActionFPS & its tournaments |
 | Testing/Quality Assurance | [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues). Find problems and report them | [Discord](https://discord.gg/YB35KE3). Ensuring releases go well. |
 | Servers | Not required | Not required |
