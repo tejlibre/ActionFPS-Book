@@ -42,9 +42,24 @@ If you want use to remember, use a GitHub issue, such as [ActionFPS Issues](http
 | APIs/Extensions | [ActionFPS Pull requests](https://github.com/scalawilliam/actionfps/pulls) | [ActionFPS-Game Pull requests](https://github.com/lucasgautheron/actionfps-game/pulls) |
 | Data Science / Analysis<br>Ideas for Statistics | Share Analysis [such as this](https://gist.github.com/ScalaWilliam/4f38055d1d96589c7a7c7a4538d96e7d) | Unclear what can be done |
 
-* To write Markdown, use the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
-* To make changes to the Portal, see the [Development Guide](https://github.com/ScalaWilliam/ActionFPS/wiki/Development-Guide)
+## Tips
+
+### Issues
+
+#### Posting
+When posting an issue, provide a clear **title** and a **reason** (eg... do **X** so that we solve/achieve **Y**)
+
+#### Visual overview
+
+You can [visit our waffle board at waffle.io/ScalaWilliam/actionfps](https://waffle.io/ScalaWilliam/actionfps). It looks like this:
+
+![screen shot 2017-01-11 at 20 03 51](https://cloud.githubusercontent.com/assets/2464813/21847871/2f31e204-d839-11e6-9aed-64aa62281442.png)
+
+### Markdown
+To write Markdown, use the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+### For portal changes
+See the [Development Guide](https://github.com/ScalaWilliam/ActionFPS/wiki/Development-Guide)
 
 ## Etiquette
 
-[Don't play ping pong when asking questions](http://woop.us/2108)
+* [Don't play ping pong when asking questions](http://woop.us/2108)
