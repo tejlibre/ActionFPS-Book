@@ -31,33 +31,36 @@ The API endpoints are intended to be stable.
 
 We provide CSV where possible, and JSON otherwise.
 
+**[cors]** means that you can call this API endpoint from a browser AJAX client.
+Where CORS is not allowed, we expect you to use server-side access instead. The list of these definitions is specified in (application.conf)[https://github.com/ScalaWilliam/ActionFPS/blob/master/web/conf/application.conf#L42]) `play.filters.cors.pathPrefixes` section. 
+
 ## Recommended
-* https://actionfps.com/player/by-email/?email=your-email@gmail.com
-* https://actionfps.com/players/?format=json
+* https://actionfps.com/player/by-email/?email=your-email@gmail.com **[cors]**: map an e-mail to player. Can be used in conjunction with Google+ Sign In.
+* https://actionfps.com/players/?format=json **[cors]**: list all players.
 * https://actionfps.com/all/games.ndjson
 * https://actionfps.com/all/games.json
 * https://actionfps.com/server-updates/
 * https://actionfps.com/new-games/
 * https://actionfps.com/inters/
-* https://actionfps.com/clans/?format=csv
-* https://actionfps.com/clans/?format=json
+* https://actionfps.com/clans/?format=csv **[cors]**
+* https://actionfps.com/clans/?format=json **[cors]**: list all clans, e.g. to create a challenge or something.
 
 ## Other
-* https://actionfps.com/game/?id=2015-04-04T14:09:12Z&format=json
-* https://actionfps.com/clan/?id=woop&format=json
+* https://actionfps.com/game/?id=2015-04-04T14:09:12Z&format=json **[cors]**: retrieve a single game
+* https://actionfps.com/clan/?id=woop&format=json **[cors]**: retrieve a single clan
 * https://actionfps.com/all/games.tsv
 * https://actionfps.com/all/games.csv
 * https://actionfps.com/clanwars/?format=json
 * https://actionfps.com/rankings/?format=json
-* https://actionfps.com/clanwar/?id=2017-01-06T22:25:14Z&format=json
+* https://actionfps.com/clanwar/?id=2017-01-06T22:25:14Z&format=json **[cors]**: retrieve a single clanwar
 * https://actionfps.com/players/?format=registrations-csv
 * https://actionfps.com/players/?format=nicknames-csv
 * https://actionfps.com/players/?format=json
 * https://actionfps.com/player/?id=sanzo&format=json
 * https://actionfps.com/playerranks/?format=json
 * https://actionfps.com/hof/?format=json
-* https://actionfps.com/servers/?format=json
-* https://actionfps.com/servers/?format=csv
+* https://actionfps.com/servers/?format=json **[cors]**: retrieve the full server list
+* https://actionfps.com/servers/?format=csv **[cors]**: retrieve the full server list
 * https://actionfps.com/ladder/?format=json
 
 # Dev endpoints
