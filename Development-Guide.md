@@ -60,7 +60,6 @@ Where CORS is not allowed, we expect you to use server-side access instead. The 
 * https://actionfps.com/playerranks/?format=json
 * https://actionfps.com/hof/?format=json
 * https://actionfps.com/servers/?format=json <br/> **[cors]**: retrieve the full server list
-* https://actionfps.com/servers/?format=csv <br/> **[cors]**: retrieve the full server list
 * https://actionfps.com/ladder/?format=json
 
 # Dev endpoints
