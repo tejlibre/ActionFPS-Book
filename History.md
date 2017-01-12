@@ -17,3 +17,7 @@
 **January 2017**: Challonge integration launched.
 
 
+
+## Stuff to keep around
+
+* [Headings/old news](https://gist.github.com/ScalaWilliam/eff3bd84dcbed0b4fc758df26a9f2931)
