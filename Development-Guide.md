@@ -9,6 +9,16 @@
 * __Scala__ for data processing and Play framework: solid, stable toolkit for dealing with complex data.
 * __jsoup__ for rendering templates: dynamic, works well with HTML5 and XML.
 
+# Project layout
+
+My preference is to have everything in a single Git repository but I did some refactoring to move the **stable** bits out of the repository into their own libraries/modules/repositories so that the stable stuff does not get in the way any more.
+
+* Portal: https://github.com/ScalaWilliam/ActionFPS
+* * Game definition & game log parser. https://github.com/ActionFPS/game-log-parser
+* * Server pinger. https://github.com/ActionFPS/server-pinger
+* * Generic tailer https://github.com/ScalaWilliam/stream-readers
+* syslog ingester for AC: https://github.com/ScalaWilliam/syslog-ac <br/> Will try to make it generic though.
+
 # Developing
 
 Install SBT: http://www.scala-sbt.org/download.html
