@@ -16,7 +16,6 @@ My preference is to have everything in a single Git repository but I did some re
 * Portal: https://github.com/ScalaWilliam/ActionFPS
   * Game definition & game log parser. https://github.com/ActionFPS/game-log-parser
   * Server pinger. https://github.com/ActionFPS/server-pinger
-  * Generic tailer https://github.com/ScalaWilliam/stream-readers
 * syslog ingester for AC: https://github.com/ScalaWilliam/syslog-ac <br/> Will try to make it generic though.
 
 # Developing
