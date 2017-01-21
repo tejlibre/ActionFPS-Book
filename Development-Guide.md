@@ -46,7 +46,7 @@ Where CORS is not allowed, we expect you to use server-side access instead. The 
 ## Recommended
 * https://actionfps.com/player/by-email/?email=your-email@gmail.com <br/> **[cors]**: map an e-mail to player. Can be used in conjunction with Google+ Sign In.
 * https://actionfps.com/players/?format=json <br/> **[cors]**: list all players.
-* https://actionfps.com/all/games.ndjson
+* https://actionfps.com/all/games.ndjson[?since=2017-01...] (we just use string comparison)
 * https://actionfps.com/all/games.json
 * https://actionfps.com/server-updates/
 * https://actionfps.com/new-games/
