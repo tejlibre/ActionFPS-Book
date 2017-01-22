@@ -19,8 +19,6 @@ Technology-wise, it's Play, Scala, Akka and PHP.
 
 Find us on [TeamSpeak](http://www.teamspeak.com/?page=downloads) at our server "aura.actionfps".
 
-Also join us on [#woop-clan @ GameSurge](https://webchat.gamesurge.net/?channels=woop-clan) IRC channel.
-
 ## Which servers do you record from?
 
 See the [servers](https://actionfps.com/servers/) page.
@@ -64,3 +62,7 @@ In order to complete a Clan War, you need to play at least 2 consecutive games a
 ## How can I support the project?
 
 By registering and playing ! You can also post your ideas and feedback on the forum. Don't hesitate to report any [issue](https://github.com/ScalaWilliam/ActionFPS/issues) you have. If you are willing to be actively participating in the development then join on on Gitter!
+
+## How do I change my nickname?
+
+Fill in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHElqokwAP_0ELgs1ijiQEvs-C--vJzfDcPjDXAFXAOks3cw/viewform">Nickname Change form</a>.
