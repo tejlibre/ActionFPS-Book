@@ -1,4 +1,4 @@
 ## January 2017
 
-* <a href="https://actionfps.blogspot.sg/2017/01/january-2017-tournament-2.html">ActionFPS Tournament #2</a> (<a href="http://challonge.com/actionfps_january_2017_2">Challonge</a>
+* <a href="https://actionfps.blogspot.sg/2017/01/january-2017-tournament-2.html">ActionFPS Tournament #2</a> (<a href="http://challonge.com/actionfps_january_2017_2">Challonge</a>)
 * <a href="https://actionfps.blogspot.sg/2017/01/january-2017-tournament.html">ActionFPS Tournament #1</a> (<a href="http://challonge.com/actionfps_january_2017">Challonge</a>) - Winner: **<a href="https://actionfps.com/clan/?id=rc">Rising Cubers</a>**
