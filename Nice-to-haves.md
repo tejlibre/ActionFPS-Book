@@ -2,3 +2,5 @@
 * <a href="https://github.com/ScalaWilliam/ActionFPS/issues/268">Display tournament deadlines</a>
 * <a href="https://github.com/ScalaWilliam/ActionFPS/issues/232">Dynamic tournament list</a>
 * <a href="https://github.com/ScalaWilliam/ActionFPS/issues/257">Double-Happy Hour</a>
+* <a href="https://github.com/ScalaWilliam/ActionFPS/issues/237">Videos</a>
+* <a href="https://github.com/ScalaWilliam/ActionFPS/issues/235">Extra Tournaments support</a>
