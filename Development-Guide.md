@@ -17,7 +17,7 @@ My preference is to have everything in a single Git repository but I did some re
   * Game definition & game log parser. https://github.com/ActionFPS/game-log-parser
   * Server pinger. https://github.com/ActionFPS/server-pinger
 * syslog ingester for AC: https://github.com/ScalaWilliam/syslog-ac <br/> Will try to make it generic though.
-* Discord bot: <a href=" https://github.com/Paul255/ActionFPS-DiscordBOT">Paul255/ActionFPS-DiscordBOT</a>
+* Discord bot: <a href="https://github.com/Paul255/ActionFPS-DiscordBOT">Paul255/ActionFPS-DiscordBOT</a>
 
 # Developing
 
