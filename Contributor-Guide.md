@@ -59,7 +59,7 @@ If you want use to remember, use a GitHub issue, such as [ActionFPS Issues](http
 | Bugs      | [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) | [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues) |
 | Code improvements      | [ActionFPS Pull requests](https://github.com/scalawilliam/actionfps/pulls) | [ActionFPS-Game Pull requests](https://github.com/lucasgautheron/actionfps-game/pulls) |
 | APIs/Extensions | [ActionFPS Pull requests](https://github.com/scalawilliam/actionfps/pulls) | [ActionFPS-Game Pull requests](https://github.com/lucasgautheron/actionfps-game/pulls) |
-| Data Science / Analysis<br>Ideas for Statistics | Share Analysis [such as this](https://gist.github.com/ScalaWilliam/4f38055d1d96589c7a7c7a4538d96e7d) | Unclear what can be done |
+| Data Science / Analysis<br>Ideas for Statistics | [Data-Science] | Unclear what can be done |
 
 ## Etiquette
 
