@@ -12,3 +12,14 @@ Here are some examples:
 Databricks offer <a href="https://docs.databricks.com/user-guide/visualizations/charts-and-graphs-python.html">some helpful visualization tutorials</a>.
 
 Jupyter <a href="https://www.youtube.com/watch?v=HW29067qVWk">Notebook video tutorial</a>.
+
+Databricks supports Scala too, if you do anything in Scala then it can be easily plugged into our main site 👍 
+
+---
+
+<img width="138" alt="screen shot 2017-01-25 at 08 33 49" src="https://cloud.githubusercontent.com/assets/2464813/22273038/114e5678-e2d9-11e6-8a7a-f1e3ae96ab49.png">
+<img width="240" alt="screen shot 2017-01-25 at 08 33 45" src="https://cloud.githubusercontent.com/assets/2464813/22273039/115250f2-e2d9-11e6-833e-fe6b42f6f870.png">
+<img width="514" alt="screen shot 2017-01-25 at 08 32 57" src="https://cloud.githubusercontent.com/assets/2464813/22273040/117c52bc-e2d9-11e6-9696-d8470ee084d2.png">
+<img width="590" alt="screen shot 2017-01-25 at 08 32 51" src="https://cloud.githubusercontent.com/assets/2464813/22273041/11814c04-e2d9-11e6-8c3d-10d11032bcbe.png">
+<img width="371" alt="screen shot 2017-01-25 at 08 32 42" src="https://cloud.githubusercontent.com/assets/2464813/22273042/119ae6dc-e2d9-11e6-91d5-3bf7b93b6c84.png">
+
