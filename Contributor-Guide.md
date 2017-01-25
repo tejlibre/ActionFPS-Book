@@ -64,3 +64,9 @@ If you want use to remember, use a GitHub issue, such as [ActionFPS Issues](http
 ## Etiquette
 
 * [Don't play ping pong when asking questions](http://woop.us/2108)
+
+## Nice to haves
+
+https://github.com/ScalaWilliam/ActionFPS/wiki/Nice-to-haves
+
+These are the things we have closed issues for which are low priority but nice to have.
