@@ -24,6 +24,7 @@ See the [Development Guide](https://github.com/ScalaWilliam/ActionFPS/wiki/Devel
 ### Live discussion
 
 We'd like to use GitHub issues rather than live discussion. Reasons are:
+
 1. We'd like to keep track of questions in a single place.
 2. Chat and live discussion are difficult to track down and materialize.
 3. If there's anything unclear in the system, we'd like to see that automatically documented and tackle the problem directly. Eg if user doesn't understand something, we update the wiki, and direct the user there. This is scalable information sharing.
