@@ -29,6 +29,13 @@ Use IntelliJ Community Edition: https://www.jetbrains.com/idea/download/. Simply
 sbt web/run
 ```
 
+This will load all the data and cache the computations in-memory, so you can work on the front-end.
+If you wish to not cache all the data & recompute it instead, use:
+
+```
+sbt 'web/run -Dfull.provider=normal'
+```
+
 # Running tests
 
 ```
