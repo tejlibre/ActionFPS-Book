@@ -23,9 +23,14 @@ See the [Development Guide](https://github.com/ScalaWilliam/ActionFPS/wiki/Devel
 
 ### Live discussion
 
-If you want us to forget/discuss, use [Discord](https://discord.gg/YB35KE3).
+We'd like to use GitHub issues rather than live discussion. Reasons are:
+1. We'd like to keep track of questions in a single place.
+2. Chat and live discussion are difficult to track down and materialize.
+3. If there's anything unclear in the system, we'd like to see that automatically documented and tackle the problem directly. Eg if user doesn't understand something, we update the wiki, and direct the user there. This is scalable information sharing.
 
-If you want use to remember, use a GitHub issue, such as [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) and  [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues).
+**<a href="http://www.yegor256.com/2016/08/23/communication-maturity.html">Eight Levels of Communication Maturity</a>**
+
+Use a GitHub issue, such as [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) and  [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues).
 
 ### When you have an initial idea
 
