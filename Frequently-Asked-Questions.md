@@ -66,3 +66,7 @@ By registering and playing ! You can also post your ideas and feedback on the fo
 ## How do I change my nickname?
 
 Fill in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHElqokwAP_0ELgs1ijiQEvs-C--vJzfDcPjDXAFXAOks3cw/viewform">Nickname Change form</a>.
+
+## How can I get admin?
+
+Ask **Sanzouille** on Discord.
