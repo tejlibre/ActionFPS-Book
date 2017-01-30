@@ -17,7 +17,7 @@ Technology-wise, it's Play, Scala, Akka and PHP.
 
 <div>Join us on Discord! </div>
 
-Find us on [TeamSpeak](http://www.teamspeak.com/?page=downloads) at our server "aura.actionfps".
+Find us at our [Discord](https://discord.gg/YB35KE3)
 
 ## Which servers do you record from?
 
