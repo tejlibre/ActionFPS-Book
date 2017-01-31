@@ -51,6 +51,10 @@ In the current state you are not able to change it. However if the name change i
 
 This means that the games are happenning right now ! The real time game display allows you to see the score of a game in real time on your browser!
 
+## Why do some games not appear on the site?
+
+There are a number of reasons a game can be filtered from the site. In particular, games that have uneven number of players by the end of the match are not registered. To avoid this, do not leave the match until the intermission ends (i.e. the next map starts), or use `match` mastermode (`/mastermode 2`).
+
 ## Should I accept notifications?
 
 Yes! When you are registered on the website, you are able to use an inter finding feature we created. Go on any of our [servers](https://actionfps.com/servers/), then type `!inter`. This will send a notification on people's browser with a link to join the inter. There is a spam protection, doing it once is enough.
