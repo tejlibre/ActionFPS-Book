@@ -53,7 +53,7 @@ This means that the games are happenning right now ! The real time game display 
 
 ## Why do some games not appear on the site?
 
-There are a number of reasons a game can be filtered from the site. In particular, games that have uneven number of players by the end of the match are not registered. To avoid this, do not leave the match until the intermission ends (i.e. the next map starts), or use `match` mastermode (`/mastermode 2`).
+There are a number of reasons a game can be filtered from the site. In particular, games that have less than two players on a team by the end of the match are not registered. To avoid this, do not leave the match until the intermission ends (i.e. the next map starts), or use `match` mastermode (`/mastermode 2`).
 
 ## Should I accept notifications?
 
