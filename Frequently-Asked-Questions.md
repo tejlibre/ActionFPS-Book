@@ -74,3 +74,7 @@ Fill in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHElqokwAP_0ELgs1
 ## How can I get admin?
 
 Ask **Sanzouille** on Discord.
+
+## Mix teams in tournaments?
+
+See: https://github.com/ScalaWilliam/ActionFPS/issues/283
