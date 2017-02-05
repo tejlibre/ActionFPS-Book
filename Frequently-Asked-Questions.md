@@ -1,6 +1,6 @@
 ## What is this?
 
-ActionFPS is a portal and a game based on AssaultCube.
+ActionFPS is a portal and a game based on the open-source <a href="http://assault.cubers.net/">AssaultCube first-person shooter</a> (FPS).
 
 ## Rules for play?
 
