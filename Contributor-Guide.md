@@ -18,7 +18,7 @@
 * Mapping
 * Bug reports
 * Building on top of our API.
-* [Data-Science] & analysis.
+* [Data Science] & analysis.
 
 ## Contributions we don't want
 
