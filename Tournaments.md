@@ -14,7 +14,7 @@ Discord.
 
 ## How do we enter the scores?
 
-You don't, they are entered automatically.
+You don't, they are entered automatically by ActionFPS when clanwar finishes.
 
 ## Why no mixed teams?
 We want to build up the clan scene in ActionFPS and decrease the noise. Ideally more in number, smaller in size, higher in quality clans.
