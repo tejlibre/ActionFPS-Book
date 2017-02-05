@@ -15,11 +15,10 @@
 * Running tournaments
 * Testing and QA
 * Playing
-* Good ideas
 * Mapping
 * Bug reports
 * Building on top of our API.
-* [Data Science] & analysis.
+* [[Data Science]] & analysis.
 
 ## Contributions we don't want
 
