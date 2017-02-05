@@ -4,6 +4,7 @@
 * <a href="https://github.com/ScalaWilliam/ActionFPS/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Apostponed%20">Postponed/Nice-to-haves</a>
 * In chat, things get forgotten. Instead, post in <a href="https://github.com/ScalaWilliam/ActionFPS/issues">ActionFPS Issues</a> or [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues) so we don't forget. Read <a href="http://www.yegor256.com/2016/08/23/communication-maturity.html">Eight Levels of Communication Maturity</a>.
 * Contributions & Pull Requests: **No Issue = No Agreement = Rejected**. Discuss with us first.
+* We'll deal with new issues quickly, either work on them or close them or postpone-close them.
 
 ## Contributions we want
 
