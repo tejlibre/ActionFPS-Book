@@ -1,1 +1,0 @@
-* Map blocking (https://github.com/ScalaWilliam/ActionFPS/issues/247)
