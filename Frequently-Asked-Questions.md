@@ -12,7 +12,7 @@ See [[Glossary]].
 
 ## Why Google sign in?
 
-Fast development.
+Faster development.
 
 ## Can I change the in-game name i picked while registering?
 
