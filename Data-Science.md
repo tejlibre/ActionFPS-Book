@@ -1,4 +1,4 @@
-Contributions in Data Science are very much welcome. We'd like to add new visualisations and new dimensions for our player base.
+We'd like to add new visualisations and new dimensions for our player base.
 
 All the data is available via public API endpoints as described here:
 https://github.com/ScalaWilliam/ActionFPS/wiki/Development-Guide#api-endpoints
