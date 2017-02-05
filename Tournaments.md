@@ -23,7 +23,7 @@ We want to build up the clan scene in ActionFPS and decrease the noise. Ideally 
 * Map blocking (https://github.com/ScalaWilliam/ActionFPS/issues/247)
 
 # Setting up a tournament checklist
-1. Name: **ActionFPS Tournament #<Number>; <Month> <Year>**. **Number** is **Previous number + 1**.
+1. Name: `ActionFPS Tournament #<Number>; <Month> <Year>`. `<Number>` is `<Previous number> + 1`.
 2. Set up <a href="http://challonge.com/tournaments/new">a Challonge page</a>.
 3. Give administrator access to 'WoopDrakas': `Advanced Options` -> `Permissions`.
 4. Post about it <a href="https://actionfps.wordpress.com">on Wordpress</a>. Put in the appropriate rules. Link to this page.
