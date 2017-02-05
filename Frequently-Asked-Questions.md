@@ -10,21 +10,21 @@ Be fair.
 
 See [[Glossary]].
 
-## Why Google sign in?
-
-Faster development.
-
-## Can I change the in-game name i picked while registering?
-
-In the current state you are not able to change it. However if the name change is necessary (i.e joined or left a clan..) then you can complete this [form](https://docs.google.com/forms/d/10DqKjc8YxnpQ7llI2E2AT4ceYtypzZg0d5LD4lRTe0E/viewform) and we will do it for you.
-
 ## Why do some games not appear on the site?
 
-There are a number of reasons a game can be filtered from the site. In particular, games that have less than two players on a team by the end of the match are not registered. To avoid this, do not leave the match until the intermission ends (i.e. the next map starts), or use `match` mastermode (`/mastermode 2`).
+See **Validated Game** in [[Glossary]].
 
 ## How to complete a Clan War?
 
 See [[Glossary]].
+
+## Why Google sign in?
+
+Faster development.
+
+## How to change my name?
+
+**id** cannot be changed, **name** cannot be changed, but **nickname** can be by completing the [nickname change form](https://docs.google.com/forms/d/10DqKjc8YxnpQ7llI2E2AT4ceYtypzZg0d5LD4lRTe0E/viewform).
 
 ## How can I help?
 
