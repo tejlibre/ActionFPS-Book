@@ -30,7 +30,7 @@ sbt web/run
 ```
 
 This will load all the data and cache the computations in-memory, so you can work on the front-end.
-If you wish to not cache all the data & recompute it instead, use:
+If you wish to not cache all the data & would like to recompute it instead, use:
 
 ```
 sbt 'web/run -Dfull.provider=normal'
@@ -85,25 +85,5 @@ As defined in [web/app/controllers/Dev.scala#L27](https://github.com/ScalaWillia
 
 So you can edit templates without having to have the true data.
 
-* https://actionfps.com/dev/live-template/
-* https://actionfps.com/dev/clanwars/
-* https://actionfps.com/dev/sig.svg
-* https://actionfps.com/dev/sig/
-* https://actionfps.com/dev/player/
-
-# Debugging parsing issues etc
-
-First stage of sanity is to use the 'dev-app' package:
-
-```$xslt
-$ sbt show dev-app/stage
-...
-[info] .../dev-app/target/universal/stage
-$ .../dev-app/target/universal/stage
-$ ls .../dev-app/target/universal/stage/bin
-dev-app     dev-app.bat game-parser
-$ 3999.log | ./dev-app/target/universal/stage/bin/game-parser
-```
-
-## DevOps
+# DevOps
 Continuous Deployment: master --> <https://git.watch/> --> build & restart. Simple monolithic deployment.
