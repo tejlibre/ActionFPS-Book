@@ -1,78 +1,28 @@
-We welcome any contribution very much!
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+* [Development Guide](https://github.com/ScalaWilliam/ActionFPS/wiki/Development-Guide)
+* Etiquette: [Don't play ping pong when asking questions](http://woop.us/2108)
+* <a href="https://github.com/ScalaWilliam/ActionFPS/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Apostponed%20">Postponed/Nice-to-haves</a>
+* In chat, things get forgotten. Instead, post in <a href="https://github.com/ScalaWilliam/ActionFPS/issues">ActionFPS Issues</a> or [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues) so we don't forget. Read <a href="http://www.yegor256.com/2016/08/23/communication-maturity.html">Eight Levels of Communication Maturity</a>.
+* Contributions & Pull Requests: **No Issue = No Agreement = Rejected**. Discuss with us first.
 
+## Contributions we want
 
-## Tips
+* Promotion
+* Videos
+* Code
+* User documentation
+* Running tournaments
+* Testing and QA
+* Playing
+* Good ideas
+* Mapping
+* Bug reports
+* Building on top of our API.
+* [Data-Science] & analysis.
 
-### Issues
+## Contributions we don't want
 
-#### Posting
-When posting an issue, provide a clear **title** and a **reason** (eg... do **X** so that we solve/achieve **Y**)
-
-#### Visual overview
-
-You can [visit our waffle board at waffle.io/ScalaWilliam/actionfps](https://waffle.io/ScalaWilliam/actionfps). It looks like this:
-
-![screen shot 2017-01-11 at 20 03 51](https://cloud.githubusercontent.com/assets/2464813/21847871/2f31e204-d839-11e6-9aed-64aa62281442.png)
-
-### Markdown
-To write Markdown, use the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
-### For portal changes
-See the [Development Guide](https://github.com/ScalaWilliam/ActionFPS/wiki/Development-Guide)
-
-## Where to discuss what
-
-### Live discussion
-
-We'd like to use GitHub issues rather than live discussion. Reasons are:
-
-1. We'd like to keep track of questions in a single place.
-2. Chat and live discussion are difficult to track down and materialize. Stuff disappears quickly.
-3. If there's anything unclear in the system, we'd like to see that automatically documented and tackle the problem directly. Eg if user doesn't understand something, we update the wiki, and direct the user there. This is scalable information sharing.
-
-**<a href="http://www.yegor256.com/2016/08/23/communication-maturity.html">Eight Levels of Communication Maturity</a>**
-
-Use a GitHub issue, such as [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) and  [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues).
-
-### When you have an initial idea
-
-1. Check existing GitHub issues in [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) and  [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues).
-2. Not there? Ask on [Discord](https://discord.gg/YB35KE3) `#development` channel if it makes sense.
-3. If you are confident, you can go directly ahead and submit an Issue.
-
-### When you have a bug report
-
-1. Check existing issues.
-2. If none exist, then create one.
-
-### When you have a code change to contribute
-
-1. Ensure an issue exists.
-2. Make a Pull Request in [ActionFPS Pull Requests](https://github.com/scalawilliam/actionfps/pulls) or  [ActionFPS-Game Pull Requests](https://github.com/lucasgautheron/actionfps-game/pulls).
-
-## What sort of contributions are needed, where they can go
-| What you have       | For ActionFPS (General)           | ActionFPS Game  |
-|:-------------|:-------------|:-----|
-| Chattiness | Share ActionFPS online | Share ActionFPS online |
-| Organisation skills | Help organise games and user flow | Help organise user flow |
-| Copywriting | Writing blog posts and documentation | Documentation |
-| Video skills<br>Media skills | Share on YouTube or other places and also with us | Share on YouTube or other places and also with us |
-| Game time | Play on ActionFPS & its tournaments | Play on ActionFPS & its tournaments |
-| Testing/Quality Assurance | [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues). Find problems and report them | [Discord](https://discord.gg/YB35KE3). Ensuring releases go well. |
-| Servers | Not required | Not required |
-| Ideas      | [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) | [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues) |
-| Design skills      | [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) | [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues) |
-| Mapping skills      |  | [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues) |
-| Bugs      | [ActionFPS Issues](https://github.com/scalawilliam/actionfps/issues) | [ActionFPS-Game Issues](https://github.com/lucasgautheron/actionfps-game/issues) |
-| Code improvements      | [ActionFPS Pull requests](https://github.com/scalawilliam/actionfps/pulls) | [ActionFPS-Game Pull requests](https://github.com/lucasgautheron/actionfps-game/pulls) |
-| APIs/Extensions | [ActionFPS Pull requests](https://github.com/scalawilliam/actionfps/pulls) | [ActionFPS-Game Pull requests](https://github.com/lucasgautheron/actionfps-game/pulls) |
-| Data Science / Analysis<br>Ideas for Statistics | [Data-Science] | Unclear what can be done |
-
-## Etiquette
-
-* [Don't play ping pong when asking questions](http://woop.us/2108)
-
-## Nice to haves
-
-https://github.com/ScalaWilliam/ActionFPS/wiki/Nice-to-haves
-
-These are the things we have closed issues for which are low priority but nice to have.
+* Bad code
+* Servers
+* Bad ideas
+* Large redesigns
