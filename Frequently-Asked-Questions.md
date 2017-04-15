@@ -54,3 +54,6 @@ Groups players by clantag. Handy for clan wars.
 
 ### `!sides`
 Swaps the team sides.
+
+## Cheater problem
+Go to [ActionFPS/blacklist](https://github.com/ActionFPS/blacklist).
