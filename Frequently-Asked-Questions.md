@@ -56,4 +56,4 @@ Groups players by clantag. Handy for clan wars.
 Swaps the team sides.
 
 ## Abuse/Cheater problem
-Go to [ActionFPS/blacklist](https://github.com/ActionFPS/blacklist).
+This is taken care of by "Ladder Cops" who operate [the ActionFPS blacklist](https://github.com/ActionFPS/blacklist).
