@@ -52,7 +52,7 @@ Main developer of the ActionFPS platform. Also see Lucas and Sanzo. Built HI-SKI
 
 The fundamental unit of play in ActionFPS. Typically lasts 15 minutes.
 
-Also refers to the Desktop Game Client that is an application that the player uses to play the Game.
+Also refers to the ActionFPS Game Desktop Client that is an application that the player uses to play the Game.
 
 ## Game mode
 
