@@ -24,7 +24,7 @@ There are quite a few, as explained in the [Tutorial.](//tutorial.md) However, h
 
 ### It is built by the people behind the Match Client
 
-* This means we will have all the competitive game features such as pause, half-time
+* This means we will have all the competitive game features such as pause, half-time, map blocking, etc.
 
 ## Rules for play?
 
