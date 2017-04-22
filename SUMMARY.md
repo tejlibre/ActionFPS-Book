@@ -2,10 +2,6 @@
 
 * [Contributor-Guide.md](Contributor-Guide.md)
 
-* [Data-Science.md](Data-Science.md)
-
-* [Development-Guide.md](Development-Guide.md)
-
 * [Glossary.md](Glossary.md)
 
 * [Videos.md](Videos.md)
@@ -25,6 +21,12 @@
 * [Frequently-Asked-Questions.md](Frequently-Asked-Questions.md)
 
 * [Authentication.md](Authentication.md)
+
+* Development
+
+  * [Data-Science.md](https://www.gitbook.com/book/actionfps/book/edit#)
+
+  * [Development-Guide.md](https://www.gitbook.com/book/actionfps/book/edit#)
 
 
 
