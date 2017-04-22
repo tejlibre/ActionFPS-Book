@@ -16,5 +16,5 @@ First read the [FAQ](/Frequently-Asked-Questions.md) or ask in our [Discord chan
 
 #### Interested in helping out?
 
-See the [Contributor Guide](/Contributor-Guide.md).
+See the [Contributor Guide](//contributor-guide.md).
 

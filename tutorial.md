@@ -92,5 +92,5 @@ The result of the Clanwar contributes to [Clan Ranks](https://actionfps.com/rank
 
 ### Contributing
 
-ActionFPS is young and growing. Read more about contributing in our [Contributor Guide](/Contributor-Guide.md).
+ActionFPS is young and growing. Read more about contributing in our [Contributor Guide](//contributor-guide.md).
 

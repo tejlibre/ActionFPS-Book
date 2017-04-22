@@ -7,10 +7,9 @@
 * [Tournaments](/tournaments.md)
 * [History](/history.md)
 * [Contributor Guide](/contributor-guide.md)
-  * [Competitive](/contributor-guide.md#competitive)
   * [Development](/contributor-guide.md#development)
+  * [Competitive](/contributor-guide.md#competitive)
   * [Promotional](/contributor-guide.md#promotional)
-
 
 ## Development
 
