@@ -6,7 +6,9 @@ We'll go through the key aspects of ActionFPS.
 
 ActionFPS is a Portal and Game based on [AssaultCube](http://assault.cubers.net/). It was created in response to a decline due to lack of competitive features in the AssaultCube game and ecosystem.
 
-ActionFPS solves this problem by introducing a Registration system. It allows us to collect Games, aggregate these Games into Clanwars, and aggregate Clanwars to Tournaments. ActionFPS Game features include: half-time, pause, Clanwar support, remote administration, password-free administration.
+ActionFPS solves this problem by introducing a Registration system. It allows us to collect Games, aggregate these Games into Clanwars, and aggregate Clanwars to Tournaments.
+
+ActionFPS Game features include: half-time, pause, Clanwar support, remote administration, password-free administration.
 
 The ActionFPS portal supports both games. It collects game information from "Aura" servers, which run for both ActionFPS and AssaultCube.
 
