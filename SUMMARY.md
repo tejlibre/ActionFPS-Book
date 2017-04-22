@@ -6,11 +6,12 @@
 * [Glossary](/glossary.md)
 * [Tournaments](/tournaments.md)
 * [History](/history.md)
+* [Contributor Guide](/contributor-guide.md)
+
 
 ## Development
 
 * [Growth, Philosophy](Growth,-Philosophy.md)
-* [Contributor Guide](/contributor-guide.md)
 * [Authentication](/authentication.md)
 * [Data Science](/data-science.md)
 * [Portal Development Guide](/portal-development-guide.md)
