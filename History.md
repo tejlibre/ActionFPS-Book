@@ -2,9 +2,13 @@
 
 **July 2009**: The first [AssaultCube World Cup is played](http://acwc.woop.us/).
 
-**September 2009**: Drakas releases the [HI-SKILL Ladder](http://hi-skill.us/).
+**September 2009**: Drakas releases the [HI-SKILL Ladder](http://hi-skill.us/). It becomes the biggest AssaultCube ladder ever.
 
-**November 2010**: AssaultCube admins remove some HI-SKILL servers from the master server, Drakas shuts down HI-SKILL.
+**July/August 2010**: The second [AssaultCube World Cup is played](http://acwc.woop.us/) in tandem with HI-SKILL.
+
+**November 2010**: AssaultCube admins remove some HI-SKILL servers from the master server.
+
+**December 2010**: Drakas shuts down HI-SKILL.
 
 **January 2014**: Idea for woop.ac born, started work, ended up working on duel.gg.
 
@@ -29,6 +33,4 @@
 **February 2017**: Released first ActionFPS client with authentication.
 
 **April 2017**: Created a documentation portal.
-
-
 
