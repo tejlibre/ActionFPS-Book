@@ -6,7 +6,7 @@ Contributions are very welcome. These are the categories of contributions:
 * Promotional: videos, advertising, documentation, articles
 * Development: analysis, programming, media, mapping, data science, testing, quality assurance
 
-## Development contributions
+## Development
 
 This is to do with building up the product itself.
 
