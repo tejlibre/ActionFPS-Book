@@ -18,11 +18,11 @@
 
 **February 2015**: Idea for ActionFPS with an authentication system is born.
 
-**October 2015**: woop.ac open sourced.
+**October 2015**: duel.gg open-sourced.
 
-**November 2015**: woop.ac turned into actionfps and open sourced.
+**November 2015**: woop.ac turned into ActionFPS and open sourced.
 
-**January 2016**: Implemented Clanwars. [Concept document](https://drive.google.com/a/vynar.com/file/d/0B7BXpjZMKCAIb3RsS2c5SG94TVk/view)
+**January 2016**: Implemented Clanwars. [Concept document](https://drive.google.com/a/vynar.com/file/d/0B7BXpjZMKCAIb3RsS2c5SG94TVk/view).
 
 **May 2016**: ActionFPS Ladder launched.
 
