@@ -1,5 +1,29 @@
 # FAQ \(Frequently Asked Questions\)
 
+## ActionFPS vs AssaultCube \(extended\)
+
+### There is an authentication system based on ActionFPS:
+
+* This means no more anonymous players, which means no more blacklists.
+* The authentication system is distributed, so not prone to masterserver downtime.
+* It comes with integrated group \("clan"\) support, meaning you can easily create clanwars and also be a member of multiple groups. No more messing with nickname tags.
+
+#### No more admin passwords:
+
+* It is developed closely with ActionFPS portal in mind
+* This means that we'll be able to deliver ecosystem-wide features more quickly.
+* With the authentication system, we will be able to reduce the code size required to detect players, and improve the quality of parsing.
+* We will make the game logs more easily parseable, meaning easier development of new competitive features.
+
+### Game binaries are built automatically, and code is continuously tested:
+
+* This eventually means higher quality of releases and much easier to give feedback.
+* We figured out how to build automatically for Mac, with a Circle CI subscription.
+
+### It is built by the people behind the Match Client
+
+* This means we will have all the competitive game features such as pause, half-time
+
 ## Rules for play?
 
 Be fair.
