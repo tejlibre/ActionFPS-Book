@@ -1,23 +1,21 @@
 # Summary
 
-## Using
-
 * [Introduction](README.md)
-* [Tutorial](/Tutorial.md)
-* [FAQ](Frequently-Asked-Questions.md)
-* [Glossary](Glossary.md)
-* [Tournaments](Tournaments.md)
-* [History](History.md)
-* [Videos](Videos.md)
+* [Tutorial](/tutorial.md)
+* [FAQ](/faq.md)
+* [Glossary](/glossary.md)
+* [Tournaments](/tournaments.md)
+* [History](/history.md)
+* [Videos](/videos.md)
 
 ## Development
 
 * [Growth, Philosophy](Growth,-Philosophy.md)
-* [Contributor Guide](Contributor-Guide.md)
-* [Authentication](Authentication.md)
-* [Data Science](Data-Science.md)
-* [Portal Development Guide](Portal-Development-Guide.md)
-* [Game Development Guide](Game-Development-Guide.md)
+* [Contributor Guide](/contributor-guide.md)
+* [Authentication](/authentication.md)
+* [Data Science](/data-science.md)
+* [Portal Development Guide](/portal-development-guide.md)
+* [Game Development Guide](/game-development-guide.md)
 
 ## External links
 
