@@ -1,6 +1,7 @@
-* <a href="https://actionfps.wordpress.com/2017/01/25/february-2017-tournament-3/">February 2017 Tournament #3</a> (<a href="http://challonge.com/actionfps_february_2017_1">Challonge</a>) - Winner: **<a href="https://actionfps.com/clan/?id=uk">United Kingdom</a>**
-* January 2017 <a href="https://actionfps.blogspot.sg/2017/01/january-2017-tournament-2.html">ActionFPS Tournament #2</a> (<a href="http://challonge.com/actionfps_january_2017_2">Challonge</a>) - no winner.
-* January 2017 <a href="https://actionfps.blogspot.sg/2017/01/january-2017-tournament.html">ActionFPS Tournament #1</a> (<a href="http://challonge.com/actionfps_january_2017">Challonge</a>) - Winner: **<a href="https://actionfps.com/clan/?id=rc">Rising Cubers</a>**
+# Past tournaments 
+* [February 2017, ActionFPS Tournament #3](https://actionfps.wordpress.com/2017/01/25/february-2017-tournament-3/) ([Challonge](http://challonge.com/actionfps_february_ Winner: **[United Kingdom](https://actionfps.com/clan/?id=uk).
+* [January 2017, ActionFPS Tournament #2](https://actionfps.blogspot.sg/2017/01/january-2017-tournament-2.html) ([Challonge](http://challonge.com/actionfps_january_2017_2)) - no winner.
+* [January 2017, ActionFPS Tournament #1](https://actionfps.blogspot.sg/2017/01/january-2017-tournament.html) ([Challonge](http://challonge.com/actionfps_january_2017) - Winner: **[Rising Cubers](https://actionfps.com/clan/?id=rc)**
 
 # FAQ
 
@@ -24,9 +25,9 @@ We want to build up the clan scene in ActionFPS and decrease the noise. Ideally 
 
 # Setting up a tournament checklist
 1. Name: `ActionFPS Tournament #<Number>; <Month> <Year>`. `<Number>` is `<Previous number> + 1`.
-2. Set up <a href="http://challonge.com/tournaments/new">a Challonge page</a>.
+2. Set up [a Challonge page](http://challonge.com/tournaments/new).
 3. Give administrator access to 'WoopDrakas': `Advanced Options` -> `Permissions`.
-4. Post about it <a href="https://actionfps.wordpress.com">on Wordpress</a>. Put in the appropriate rules. Link to this page.
+4. Post about it [on Wordpress](https://actionfps.wordpress.com). Put in the appropriate rules. Link to this page.
 5. Announce it on Discord channel.
 6. Announce it on AssaultCube Forums.
 7. Send a message about the tournament to 3 active clans.
@@ -42,15 +43,11 @@ We want to build up the clan scene in ActionFPS and decrease the noise. Ideally 
 3. In the forfeit, include a "Text Attachment" with an explanation.
 
 ### AC Forum template
+#### Title
+> ActionFPS Tournament #[Number]; [Month] [Year]
 
-* **Title**: `ActionFPS Tournament #<Number>; <Month> <Year>`
-* **Body**: <br>
-```
-More information on: [url=https://actionfps.wordpress.com/...]Wordpress: *Tournament Name*[/url]
-
-It's part of our automated tournament series.
-
-You need to signup using your ActionFPS Clan ID!
-
-Good luck and have fun !
-```
+#### Body
+> More information on: [url=https://actionfps.wordpress.com/...]Wordpress: *Tournament Name*[/url]
+ It's part of our automated tournament series.
+ You need to signup using your ActionFPS Clan ID!
+ Good luck and have fun !

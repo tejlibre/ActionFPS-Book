@@ -3,6 +3,7 @@
 ## Using
 
 * [Introduction](README.md)
+* [Tutorial](tutorial.md)
 * [FAQ](Frequently-Asked-Questions.md)
 * [Glossary](Glossary.md)
 * [Videos](Videos.md)
