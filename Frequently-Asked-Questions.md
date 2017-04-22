@@ -1,16 +1,8 @@
-# FAQ (Frequently Asked Questions)
+# FAQ \(Frequently Asked Questions\)
 
 ## Rules for play?
 
 Be fair.
-
-## Why do some games not appear on the site?
-
-See **Validated Game** in [[Glossary]].
-
-## How to complete a Clan War?
-
-See [[Glossary]].
 
 ## Why Google sign in?
 
@@ -35,3 +27,4 @@ Fill in the [Nickname Change Form](https://docs.google.com/forms/d/e/1FAIpQLSeHE
 ## How can I get admin?
 
 Ask **Sanzouille** on Discord.
+
