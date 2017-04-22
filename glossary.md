@@ -2,10 +2,6 @@
 
 An award given to a player for reaching a target, such as playing 100 hours.
 
-## ActionFPS
-
-A game and portal combining "ActionFPS Game" and "ActionFPS Portal".
-
 ## ActionFPS Game
 
 An open source multiplayer first-person shooter game based on AssaultCube.
@@ -100,10 +96,6 @@ Main developer of ActionFPS Game. Built Akimbo content sharing platform for Assa
 
 Mode that the server is in. Mode 0 is public, allowing anyone to enter. Mode 1 is private, not allowing anyone in. Mode 2 is match-mode, allowing in only the players who were on the server at the time of setting the mode 2.
 
-## Portal
-
-See to "ActionFPS Portal".
-
 ## Sanzo
 
 Main manager of ActionFPS. Woop Clan AC/AF squad leader.
@@ -111,6 +103,10 @@ Main manager of ActionFPS. Woop Clan AC/AF squad leader.
 ## Sanzouille
 
 See: Sanzo.
+
+## Server
+
+A space where players can play games.
 
 ## Scala
 
