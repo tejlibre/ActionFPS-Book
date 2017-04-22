@@ -53,7 +53,7 @@ These servers are for smaller games, between two fixed teams. A typical game is 
 
 #### Public servers
 
-These servers are for bigger games, where teams are not fixed, and anybody can join na  at any time. Gameplay from these servers contributes to the [Ladder](https://actionfps.com/ladder/) on ActionFPS Portal.
+These servers are for bigger games, where teams are not fixed, and anybody can join at any time. Gameplay from these servers contributes to the [Ladder](https://actionfps.com/ladder/) on ActionFPS Portal.
 
 ### Inviting people to play
 
