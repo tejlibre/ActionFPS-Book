@@ -3,7 +3,7 @@
 ## Using
 
 * [Introduction](README.md)
-* [Tutorial](tutorial.md)
+* [Tutorial](/Tutorial.md)
 * [FAQ](Frequently-Asked-Questions.md)
 * [Glossary](Glossary.md)
 * [Tournaments](Tournaments.md)
@@ -28,4 +28,6 @@
 * [ActionFPS @ GitHub](https://github.com/ScalaWilliam/ActionFPS)
 * [ActionFPS-Game @ GitHub](https://github.com/ActionFPS/ActionFPS-Game)
 * [ActionFPS-Book @ GitHub](https://github.com/ActionFPS/ActionFPS-Book)
+
+
 

@@ -1,14 +1,18 @@
 # ActionFPS Tutorial
 
-We'll go through the key aspects of the ActionFPS system. It all begins at the [Play ActionFPS](https://actionfps.com/play/) page.
+We'll go through the key aspects of ActionFPS.
 
 ### ActionFPS vs AssaultCube
 
-ActionFPS was created in response to a decline due to lack of competitive features in the AssaultCube game and ecosystem.
+ActionFPS is a Portal and Game based on [AssaultCube](http://assault.cubers.net/). It was created in response to a decline due to lack of competitive features in the AssaultCube game and ecosystem.
 
 ActionFPS solves this problem by introducing a Registration system. It allows us to collect Games, aggregate these Games into Clanwars, and aggregate Clanwars to Tournaments. ActionFPS Game features include: half-time, pause, Clanwar support, remote administration, password-free administration.
 
 The ActionFPS portal supports both games. It collects game information from "Aura" servers, which run for both ActionFPS and AssaultCube.
+
+### Start here
+
+Go to the [Play ActionFPS](https://actionfps.com/play/) page.
 
 ### Registration
 
@@ -37,7 +41,7 @@ With the key now you can connect to an ActionFPS server.
 
 ### Connecting to a Server
 
-In the [Server List](/Server List), click on a highlighted server name to connect to it.
+In the [Server List](https://actionfps.com/servers/), click on a highlighted server name to connect to it.
 
 Alternatively, you can connect to a server from the game itself, by pressing 'T' and then typing '/connect aura.woop.ac 7654' for example.
 

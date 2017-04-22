@@ -1,3 +1,11 @@
+**November 2006**: Drakas begins playing ActionCube with Woop as the first clan.
+
+**July 2009**: The first [AssaultCube World Cup is played](http://acwc.woop.us/).
+
+**September 2009**: Drakas releases the [HI-SKILL Ladder](http://hi-skill.us/).
+
+**November 2010**: AssaultCube admins remove some HI-SKILL servers from the master server, Drakas shuts down HI-SKILL.
+
 **January 2014**: Idea for woop.ac born, started work, ended up working on duel.gg.
 
 **December 2014**: woop.ac released.
@@ -14,15 +22,13 @@
 
 **May 2016**: Ladder launched.
 
-**January 2017**: Challonge integration launched.
+**July 2016:** [iR\|.Rafa\*](https://actionfps.com/player/?id=rafael) becomes the first Cube Addict on the ActionFPS [Hall of Fame](https://actionfps.com/hof/).
+
+**January 2017**: Challonge integration launched, with [Tournaments](/Tournaments.md) played.
 
 **February 2017**: Released first ActionFPS client with authentication.
 
 **April 2017**: Created a documentation portal.
-
-## Stuff to keep around
-
-* [Headings/old news](https://gist.github.com/ScalaWilliam/eff3bd84dcbed0b4fc758df26a9f2931)
 
 
 
