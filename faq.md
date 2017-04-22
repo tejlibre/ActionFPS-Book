@@ -16,20 +16,22 @@ Ask **Sanzouille** on Discord.
 
 ### Game
 
-Post on GitHub here: https://github.com/ActionFPS/ActionFPS-Game/issues
+Post on GitHub here: [https://github.com/ActionFPS/ActionFPS-Game/issues](https://github.com/ActionFPS/ActionFPS-Game/issues)
 
 When posting, include:
 
+* The problem description and logs/screenshots if possible.
 * Full steps leading to the problem
 * Time/Server/How you installed the Game.
 * Any error messages
 
 ### Portal
 
-Post on GitHub here: https://github.com/ScalaWilliam/ActionFPS/issues
+Post on GitHub here: [https://github.com/ScalaWilliam/ActionFPS/issues](https://github.com/ScalaWilliam/ActionFPS/issues)
 
 When posting, include:
 
+* The problem description and logs/screenshots if possible.
 * Full steps leading to the problem
 * Your web browser information
 * Time of the problem
