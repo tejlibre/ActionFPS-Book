@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Tutorial](/tutorial.md)
 * [FAQ](/faq.md)
-  * Reporting Problems
+  * [Report a Problem](/faq.md#how-do-i-report-a-problem)
 * [Glossary](/glossary.md)
 * [Tournaments](/tournaments.md)
 * [History](/history.md)
