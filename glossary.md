@@ -14,6 +14,8 @@ Two or three games played in sequence between two clans on one server. Third gam
 
 The fundamental unit of play in ActionFPS. Typically lasts 15 minutes.
 
+Also refers to the Desktop Game Client that is an application that the player uses to play the Game.
+
 ## Game mode
 
 A set of rules for a specific Game.
@@ -35,6 +37,4 @@ An aggregation of player scores from playing on public servers.
 ## Mastermode
 
 Mode that the server is in. Mode 0 is public, allowing anyone to enter. Mode 1 is private, not allowing anyone in. Mode 2 is match-mode, allowing in only the players who were on the server at the time of setting the mode 2.
-
-
 
