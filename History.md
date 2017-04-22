@@ -16,8 +16,13 @@
 
 **January 2017**: Challonge integration launched.
 
-**February 2017**: Releasing first ActionFPS client with authentication.
+**February 2017**: Released first ActionFPS client with authentication.
+
+**April 2017**: Created a documentation portal.
 
 ## Stuff to keep around
 
 * [Headings/old news](https://gist.github.com/ScalaWilliam/eff3bd84dcbed0b4fc758df26a9f2931)
+
+
+

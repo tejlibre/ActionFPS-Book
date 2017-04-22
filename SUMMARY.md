@@ -3,17 +3,16 @@
 ## Using
 
 * [Introduction](README.md)
-* [Installation](Installation.md)
 * [FAQ](Frequently-Asked-Questions.md)
-* [Contributor Guide](Contributor-Guide.md)
 * [Glossary](Glossary.md)
 * [Videos](Videos.md)
 * [Tournaments](Tournaments.md)
-* [Growth, Philosophy](Growth,-Philosophy.md)
 * [History](History.md)
 
 ## Development
 
+* [Growth, Philosophy](Growth,-Philosophy.md)
+* [Contributor Guide](Contributor-Guide.md)
 * [Authentication](Authentication.md)
 * [Data Science](Data-Science.md)
 * [Portal Development Guide](Portal-Development-Guide.md)
