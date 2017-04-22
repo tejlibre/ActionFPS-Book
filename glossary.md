@@ -2,6 +2,10 @@
 
 A Game mode where a a player scores for a team by bringing back the enemy's flag to his own base.
 
+## Clan
+
+A group of players who play together.
+
 ## CTF
 
 See **Capture The Flag.**
@@ -37,4 +41,14 @@ An aggregation of player scores from playing on public servers.
 ## Mastermode
 
 Mode that the server is in. Mode 0 is public, allowing anyone to enter. Mode 1 is private, not allowing anyone in. Mode 2 is match-mode, allowing in only the players who were on the server at the time of setting the mode 2.
+
+## Portal
+
+Refers to ActionFPS Portal, a website that manages player registrations, including the Ladder, achievements and other player and clan information.
+
+## Tournament
+
+A set of Clanwars between Clans, with one winner.
+
+
 
