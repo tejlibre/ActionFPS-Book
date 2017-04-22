@@ -1,6 +1,8 @@
 # FAQ \(Frequently Asked Questions\)
 
-## ActionFPS vs AssaultCube \(extended\)
+## What's the difference between ActionFPS and AssaultCube?
+
+There are quite a few, as explained in the [Tutorial.](//tutorial.md) However, here's a more comprehensive list for those who already know AssaultCube:
 
 ### There is an authentication system based on ActionFPS:
 
