@@ -12,7 +12,7 @@ Follow [**the Tutorial**](/tutorial.md).
 
 #### Having problems?
 
-First read the [FAQ](/Frequently-Asked-Questions.md) or ask in our [Discord channel.](https://discord.gg/HYHku8C)
+First read the [FAQ](//faq.md) or ask in our [Discord channel.](https://discord.gg/HYHku8C)
 
 #### Interested in helping out?
 
