@@ -11,7 +11,7 @@
 * Promotion
 * Videos
 * Code
-* User documentation
+* [User documentation](https://www.gitbook.com/book/actionfps/book/edit)
 * Running tournaments
 * Testing and QA
 * Playing
