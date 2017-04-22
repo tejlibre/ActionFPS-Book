@@ -32,4 +32,7 @@
 * [ActionFPS @ GitHub](https://github.com/ScalaWilliam/ActionFPS)
 * [ActionFPS-Game @ GitHub](https://github.com/ActionFPS/ActionFPS-Game)
 * [ActionFPS-Book @ GitHub](https://github.com/ActionFPS/ActionFPS-Book)
+* [Edit the book @ GitBook](https://www.gitbook.com/book/actionfps/book/edit)
+
+
 
