@@ -6,9 +6,9 @@
 * [Tutorial](tutorial.md)
 * [FAQ](Frequently-Asked-Questions.md)
 * [Glossary](Glossary.md)
-* [Videos](Videos.md)
 * [Tournaments](Tournaments.md)
 * [History](History.md)
+* [Videos](Videos.md)
 
 ## Development
 
