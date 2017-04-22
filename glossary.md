@@ -2,6 +2,18 @@
 
 An award given to a player for reaching a target, such as playing 100 hours.
 
+## ActionFPS
+
+A game and portal combining "ActionFPS Game" and "ActionFPS Portal".
+
+## ActionFPS Game
+
+An open source multiplayer first-person shooter game based on AssaultCube.
+
+## ActionFPS Portal
+
+A website for ActionFPS Game that manages player registrations, including the Ladder, achievements and other player and clan information.
+
 ## Authentication
 
 The part of system that helps identify players by their ID.
@@ -30,7 +42,7 @@ See **Capture The Flag.**
 
 ## Drakas
 
-The main developer of ActionFPS Portal.
+Main developer of the ActionFPS platform. Also see Lucas and Sanzo. Built HI-SKILL. Founder of Woop clan.
 
 ## Game
 
@@ -50,6 +62,14 @@ Game has to have more than 2 players per team at the end. So don't leave the gam
 
 A list of players who have completed achievements, most important achievement first.
 
+## HI-SKILL
+
+Predecessor to ActionFPS from 2009-2010.
+
+## Illuminati
+
+Drakas, Lucas, Sanzouille. Existence of other members cannot be confirmed nor denied.
+
 ## Inter
 
 A game between skilled players on a private server. Typically 3vs3 but may be 2vs2 or 4vs4.
@@ -64,13 +84,25 @@ An aggregation of player scores from playing on public servers.
 
 A player with administrator privileges, who will help maintain in-game quality of the servers.
 
+## Lucas
+
+Main developer of ActionFPS Game. Built Akimbo content sharing platform for AssaultCube.
+
 ## Mastermode
 
 Mode that the server is in. Mode 0 is public, allowing anyone to enter. Mode 1 is private, not allowing anyone in. Mode 2 is match-mode, allowing in only the players who were on the server at the time of setting the mode 2.
 
 ## Portal
 
-Refers to ActionFPS Portal, a website that manages player registrations, including the Ladder, achievements and other player and clan information.
+See to "ActionFPS Portal".
+
+## Sanzo
+
+Main manager of ActionFPS. Woop Clan AC/AF squad leader.
+
+## Sanzouille
+
+See: Sanzo.
 
 ## Scala
 
@@ -83,4 +115,8 @@ A set of Clanwars between Clans, with one winner.
 ## Twitch
 
 A live-streaming video platform for gaming.
+
+## Woop clan
+
+See: Illuminati.
 
