@@ -40,6 +40,10 @@ Two or three games played in sequence between two clans on one server. Third gam
 
 See **Capture The Flag.**
 
+## Discord
+
+Voice and text communication application and platform for online gamers.
+
 ## Drakas
 
 Main developer of the ActionFPS platform. Also see Lucas and Sanzo. Built HI-SKILL. Founder of Woop clan.
@@ -57,6 +61,10 @@ A set of rules for a specific Game.
 ## Game \(Validated\)
 
 Game has to have more than 2 players per team at the end. So don't leave the game until next map starts, or use `/mastermode 2` \(match mode\).
+
+## GitHub
+
+A platform that hosts the source code for ActionFPS Game and Portal as well as this Documentation. It can be used to report Issues.
 
 ## Hall of Fame
 
@@ -106,7 +114,7 @@ See: Sanzo.
 
 ## Scala
 
-A [scalable programming language](http://scala-lang.org) built on top of the Java.
+A [scalable programming language](http://scala-lang.org) built on top of the Java platform.
 
 ## Tournament
 
