@@ -14,6 +14,7 @@
 * [ActionFPS Portal](https://actionfps.com/)
 * [ActionFPS Blog](https://actionfps.blogspot.sg/)
 * [ActionFPS Dashboard](https://actionfps.github.io/dashboard/)
+* [ActionFPS Discord](https://discord.gg/HYHku8C)
 
 ### Development
 * [Authentication](Authentication.md)
