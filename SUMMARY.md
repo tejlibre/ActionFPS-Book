@@ -19,6 +19,10 @@
 * [Portal Development Guide](/portal-development-guide.md)
 * [Game Development Guide](/game-development-guide.md)
 
+## Media
+
+* [Videos](media/videos.md)
+
 ## External links
 
 * [ActionFPS Portal](https://actionfps.com/)
