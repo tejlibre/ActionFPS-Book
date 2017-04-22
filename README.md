@@ -6,9 +6,9 @@ Both the game and the portal are open source. Here's a short video of the game:
 
 ![afps](https://cloud.githubusercontent.com/assets/7859727/22341064/cf58a7c4-e3ef-11e6-9350-bc6f8ae4647a.gif)
 
-#### How to play
+## New?
 
-Go to the [Play ](https://actionfps.com/play/ "ActionFPS Play page")[ActionFPS page](https://actionfps.com/play/ "ActionFPS Play page"). To Play you'll be asked to Register. Registration is free and requires a Google account.
+Follow [**the Tutorial**](/tutorial.md).
 
 #### Having problems?
 
