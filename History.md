@@ -32,5 +32,5 @@
 
 **February 2017**: Released first ActionFPS client with authentication.
 
-**April 2017**: Created a documentation portal.
+**April 2017**: ActionFPS gets a documentation portal.
 
