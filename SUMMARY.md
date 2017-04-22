@@ -8,8 +8,6 @@
 
 * [Tournaments.md](Tournaments.md)
 
-* [Release.md](Release.md)
-
 * [Installation.md](Installation.md)
 
 * [Home.md](Home.md)
@@ -20,13 +18,8 @@
 
 * [Frequently-Asked-Questions.md](Frequently-Asked-Questions.md)
 
+### Development
 * [Authentication.md](Authentication.md)
-
-* Development
-
-  * [Data-Science.md](https://www.gitbook.com/book/actionfps/book/edit#)
-
-  * [Development-Guide.md](https://www.gitbook.com/book/actionfps/book/edit#)
-
-
-
+* [Development Guide](Development-Guide.md)
+* [Data Science](Data-Science.md)
+* [Release.md](Release.md)
