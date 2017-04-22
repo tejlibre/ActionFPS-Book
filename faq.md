@@ -22,7 +22,7 @@ There are quite a few, as explained in the [Tutorial.](//tutorial.md) However, h
 * This eventually means higher quality of releases and much easier to give feedback.
 * We figured out how to build automatically for Mac, with a Circle CI subscription.
 
-### It is built by the people behind the Match Client
+### It is built by the people behind the Match Client \(Lucas\)
 
 * This means we will have all the competitive game features such as pause, half-time, map blocking, etc.
 
