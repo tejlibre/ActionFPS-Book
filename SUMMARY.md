@@ -14,6 +14,7 @@
 
 ## Development
 
+* [Testing](testing.md)
 * [Growth, Philosophy](Growth,-Philosophy.md)
 * [Authentication](/authentication.md)
 * [Data Science](/data-science.md)
@@ -34,6 +35,4 @@
 * [ActionFPS-Game @ GitHub](https://github.com/ActionFPS/ActionFPS-Game)
 * [ActionFPS-Book @ GitHub](https://github.com/ActionFPS/ActionFPS-Book)
 * [Edit the book @ GitBook](https://www.gitbook.com/book/actionfps/book/edit)
-
-
 
