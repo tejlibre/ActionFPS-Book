@@ -40,7 +40,7 @@ Ask **Sanzouille** on Discord.
 
 ## How do I change my nickname?
 
-[Change Nickname Form](https://docs.google.com/forms/d/10DqKjc8YxnpQ7llI2E2AT4ceYtypzZg0d5LD4lRTe0E/viewform)
+[Change Nickname Form](https://docs.google.com/forms/d/10DqKjc8YxnpQ7llI2E2AT4ceYtypzZg0d5LD4lRTe0E/viewform).
 
 ## How do I report a problem?
 
@@ -65,8 +65,6 @@ When posting, include:
 * Full steps leading to the problem
 * Your web browser information
 * Time of the problem
-
-
 
 ### Other
 
