@@ -1,0 +1,9 @@
+{
+    "plugins": ["disqus-specific"],
+    "pluginsConfig": {
+        "disqus-specific": {
+            "shortName": "docs-actionfps-com",
+            "disabled": true
+        }
+    }
+}
