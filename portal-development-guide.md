@@ -72,9 +72,9 @@ Where CORS is not allowed, we expect you to use server-side access instead. The 
 
 We offer access to raw logs from ActionFPS. 
 
-* `curl -s 'https://actionfps.com/logs.tsv?from=2017-01-01T00:00:00Z&to=2099-04-10T11:02:03Z'` - get raw events for these time periods using the [tab-separated values (TSV)](https://en.wikipedia.org/wiki/Tab-separated_values) format.
-* `curl -s 'https://actionfps.com/logs'` - get live events using [EventSource standard](https://www.w3.org/TR/eventsource/).
-* `curl -H 'Last-Event-ID: 2017-04-30T01:02:03Z' -i https://actionfps.com/logs` - get live events from this last event ID. This is part of EventSource standard and is supported by EventSource clients such as [Scala Alpakka one](http://developer.lightbend.com/docs/alpakka/current/sse.html), [Node.js one](https://www.npmjs.com/package/eventsource), as well as the JavaScript one.
+* Historical data: `curl -s 'https://actionfps.com/logs.tsv?from=2017-01-01T00:00:00Z&to=2099-04-10T11:02:03Z'` - get raw events for these time periods using the [tab-separated values (TSV)](https://en.wikipedia.org/wiki/Tab-separated_values) format.
+* Live data from the end: `curl -s 'https://actionfps.com/logs'` - get live events using [EventSource standard](https://www.w3.org/TR/eventsource/).
+* Live data from a specified time: `curl -H 'Last-Event-ID: 2017-04-30T01:02:03Z' -i https://actionfps.com/logs` - get live events from this last event ID. This is part of EventSource standard and is supported by EventSource clients such as [Scala Alpakka one](http://developer.lightbend.com/docs/alpakka/current/sse.html), [Node.js one](https://www.npmjs.com/package/eventsource), as well as the JavaScript one. With this, you can resume from a broken stream of data.
 
 #### Filtering
 
