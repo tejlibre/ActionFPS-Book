@@ -82,7 +82,7 @@ We filter out some data for privacy reasons:
 - IP Addresses are turned to `0.0.0.0`.
 - Person-to-person messages are not displayed.
 
-To have access to the true stream
+To have access to the true stream we use JWT.
 
 ## Other
 * https://actionfps.com/game/?id=2015-04-04T14:09:12Z&format=json <br/> **[cors]**: retrieve a single game
