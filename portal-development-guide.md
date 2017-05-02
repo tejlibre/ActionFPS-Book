@@ -68,6 +68,22 @@ Where CORS is not allowed, we expect you to use server-side access instead. The 
 * https://actionfps.com/clans/?format=csv <br/>**[cors]** list all clans (in CSV)
 * https://actionfps.com/clans/?format=json <br/> **[cors]**: list all clans, e.g. to create a challenge or something.
 
+### Logs
+
+We offer access to raw logs from ActionFPS. 
+
+* `curl -s 'https://actionfps.com/logs.tsv?from=2017-01-01T00:00:00Z&to=2099-04-10T11:02:03Z'` - get raw events for these time periods using the [tab-separated values (TSV)](https://en.wikipedia.org/wiki/Tab-separated_values) format.
+* `curl -s 'https://actionfps.com/logs'` - get live events using [EventSource standard](https://www.w3.org/TR/eventsource/).
+* `curl -H 'Last-Event-ID: 2017-04-30T01:02:03Z' -i https://actionfps.com/logs` - get live events from this last event ID. This is part of EventSource standard and is supported by EventSource clients such as [Scala Alpakka one](http://developer.lightbend.com/docs/alpakka/current/sse.html), [Node.js one](https://www.npmjs.com/package/eventsource), as well as the JavaScript one.
+
+#### Filtering
+
+We filter out some data for privacy reasons:
+- IP Addresses are turned to `0.0.0.0`.
+- Person-to-person messages are not displayed.
+
+To have access to the true stream
+
 ## Other
 * https://actionfps.com/game/?id=2015-04-04T14:09:12Z&format=json <br/> **[cors]**: retrieve a single game
 * https://actionfps.com/clan/?id=woop&format=json <br/> **[cors]**: retrieve a single clan
