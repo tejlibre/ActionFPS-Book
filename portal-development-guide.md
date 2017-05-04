@@ -65,7 +65,6 @@ Where CORS is not allowed, we expect you to use server-side access instead. The 
 * https://actionfps.com/server-updates/
 * https://actionfps.com/new-games/
 * https://actionfps.com/inters/
-* https://actionfps.com/clans/?format=csv <br/>**[cors]** list all clans (in CSV)
 * https://actionfps.com/clans/?format=json <br/> **[cors]**: list all clans, e.g. to create a challenge or something.
 
 ### Logs
@@ -98,7 +97,8 @@ To have access to the true stream we use JWT.
 * https://actionfps.com/player/?id=sanzo&format=json
 * https://actionfps.com/playerranks/?format=json
 * https://actionfps.com/hof/?format=json
-* https://actionfps.com/servers/?format=json <br/> **[cors]**: retrieve the full server list
+* https://actionfps.com/servers/?format=json
+  **[cors]**: retrieve the full server list
 * https://actionfps.com/ladder/?format=json
 
 # Dev endpoints
