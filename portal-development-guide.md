@@ -22,8 +22,8 @@ My preference is to have everything in a single Git repository but I did some re
 * Portal: https://github.com/ScalaWilliam/ActionFPS
   * Game definition & game log parser. https://github.com/ActionFPS/game-log-parser
   * Server pinger. https://github.com/ActionFPS/server-pinger
-* syslog ingester for AC: https://github.com/ScalaWilliam/syslog-ac <br/> Will try to make it generic though.
-* Discord bot: <a href="https://github.com/Paul255/ActionFPS-DiscordBOT">Paul255/ActionFPS-DiscordBOT</a>
+* syslog ingester for AC: https://github.com/ScalaWilliam/syslog-ac
+   Will try to make it generic though.
 
 # Developing
 
@@ -58,14 +58,17 @@ We provide CSV where possible, and JSON otherwise.
 Where CORS is not allowed, we expect you to use server-side access instead. The list of these definitions is specified in [application.conf](https://github.com/ScalaWilliam/ActionFPS/blob/master/web/conf/application.conf#L42) `play.filters.cors.pathPrefixes` section. 
 
 ## Recommended
-* https://actionfps.com/player/by-email/?email=your-email@gmail.com <br/> **[cors]**: map an e-mail to player. Can be used in conjunction with Google+ Sign In.
-* https://actionfps.com/players/?format=json <br/> **[cors]**: list all players.
+* https://actionfps.com/player/by-email/?email=your-email@gmail.com
+  **[cors]**: map an e-mail to player. Can be used in conjunction with Google+ Sign In.
+* https://actionfps.com/players/?format=json
+  **[cors]**: list all players.
 * https://actionfps.com/all/games.ndjson[?since=2017-01...] (we just use string comparison)
 * https://actionfps.com/all/games.json
 * https://actionfps.com/server-updates/
 * https://actionfps.com/new-games/
 * https://actionfps.com/inters/
-* https://actionfps.com/clans/?format=json <br/> **[cors]**: list all clans, e.g. to create a challenge or something.
+* https://actionfps.com/clans/?format=json
+  **[cors]**: list all clans, e.g. to create a challenge or something.
 
 ### Logs
 
@@ -84,13 +87,16 @@ We filter out some data for privacy reasons:
 To have access to the true stream we use JWT.
 
 ## Other
-* https://actionfps.com/game/?id=2015-04-04T14:09:12Z&format=json <br/> **[cors]**: retrieve a single game
-* https://actionfps.com/clan/?id=woop&format=json <br/> **[cors]**: retrieve a single clan
+* https://actionfps.com/game/?id=2015-04-04T14:09:12Z&format=json
+   **[cors]**: retrieve a single game
+* https://actionfps.com/clan/?id=woop&format=json
+   **[cors]**: retrieve a single clan
 * https://actionfps.com/all/games.tsv
 * https://actionfps.com/all/games.csv
 * https://actionfps.com/clanwars/?format=json
 * https://actionfps.com/rankings/?format=json
-* https://actionfps.com/clanwar/?id=2017-01-06T22:25:14Z&format=json <br/> **[cors]**: retrieve a single clanwar
+* https://actionfps.com/clanwar/?id=2017-01-06T22:25:14Z&format=json
+   **[cors]**: retrieve a single clanwar
 * https://actionfps.com/players/?format=registrations-csv
 * https://actionfps.com/players/?format=nicknames-csv
 * https://actionfps.com/players/?format=json
