@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Tutorial](/tutorial.md)
 * [FAQ](/faq.md)
-  * [Report a Problem](/faq.md#how-do-i-report-a-problem)
 * [Glossary](/glossary.md)
 * [Tournaments](/tournaments.md)
 * [History](/history.md)
@@ -35,4 +34,6 @@
 * [ActionFPS-Game @ GitHub](https://github.com/ActionFPS/ActionFPS-Game)
 * [ActionFPS-Book @ GitHub](https://github.com/ActionFPS/ActionFPS-Book)
 * [Edit the book @ GitBook](https://www.gitbook.com/book/actionfps/book/edit)
+
+
 

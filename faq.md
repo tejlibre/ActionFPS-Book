@@ -40,7 +40,7 @@ Ask **Sanzouille** on Discord.
 
 ## How do I change my nickname?
 
-[Change Nickname Form](https://docs.google.com/forms/d/10DqKjc8YxnpQ7llI2E2AT4ceYtypzZg0d5LD4lRTe0E/viewform).
+Create a GitHub Pull Request here: [https://github.com/ActionFPS/clans\#actionfps-nicknames](https://github.com/ActionFPS/clans#actionfps-nicknames).
 
 ## How do I report a problem?
 
