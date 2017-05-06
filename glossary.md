@@ -84,13 +84,13 @@ If you are a registered player on our server, you can type `!inter` to notify ot
 
 An aggregation of player scores from playing on public servers.
 
-## Ladder Cop
-
-A player with administrator privileges, who will help maintain in-game quality of the servers.
-
 ## Lucas
 
 Main developer of ActionFPS Game. Built Akimbo content sharing platform for AssaultCube.
+
+## Managers
+
+A player with administrator privileges, who will help maintain in-game quality of the servers.
 
 ## Mastermode
 
