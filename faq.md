@@ -32,7 +32,7 @@ Be fair.
 
 ## What do I do about abuse or cheating?
 
-Talk to a "Ladder Cop" on [Discord](https://discord.gg/HYHku8C).
+Talk to a Manager on [Discord](https://discord.gg/HYHku8C).
 
 ## How can I get admin?
 
