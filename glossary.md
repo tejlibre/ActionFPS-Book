@@ -88,7 +88,7 @@ An aggregation of player scores from playing on public servers.
 
 Main developer of ActionFPS Game. Built Akimbo content sharing platform for AssaultCube.
 
-## Managers
+## Manager
 
 A player with administrator privileges, who will help maintain in-game quality of the servers.
 
