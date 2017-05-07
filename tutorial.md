@@ -12,7 +12,9 @@ ActionFPS Game features include: half-time, pause, Clanwar support, remote admin
 
 The ActionFPS portal supports both games. It collects game information from "Aura" servers, which run for both ActionFPS and AssaultCube.
 
-ActionFPS Game is still in beta testing phases, so does not have activity yet.
+#### Which game to choose?
+
+ActionFPS Game is still in beta testing phases, so does not have activity yet. Help us [test it](/testing.md) but use AssaultCube in the while.
 
 ### Start here
 
