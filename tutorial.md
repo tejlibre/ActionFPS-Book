@@ -39,9 +39,9 @@ When you register, you are given a profile. This profile shows how long you've p
 
 After registration, you are presented with download links and installation instructions for ActionFPS and AssaultCube.
 
-### ActionFPS Authentication
+### Authentication for ActionFPS only
 
-Once you have installed ActionFPS, click '**Authenticate**'. This will download your personal  '**Private Key**' onto your ActionFPS configuration. Do not share this.
+Once you have installed ActionFPS, click '**Play now \(with authentication\)**'. This will download your personal  '**Private Key**' onto your ActionFPS configuration. Do not share this.
 
 With the key now you can connect to an ActionFPS server.
 
