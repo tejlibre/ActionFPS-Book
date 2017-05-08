@@ -66,9 +66,6 @@ Where CORS is not allowed, we expect you to use server-side access instead. The 
 * https://actionfps.com/all/games.json
 * https://actionfps.com/server-updates/
 * https://actionfps.com/new-games/
-* https://actionfps.com/inters/
-* https://actionfps.com/clans/?format=json
-  **[cors]**: list all clans, e.g. to create a challenge or something.
 
 ### Logs
 
