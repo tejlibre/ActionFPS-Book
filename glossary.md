@@ -32,6 +32,8 @@ A group of players who play together.
 
 Two or three games played in sequence between two clans on one server. Third game is usually a tie-breaker.
 
+Clanwar counts valid games, and they must be played one after the other. See **Game \(Validated\)**
+
 ## CTF
 
 See **Capture The Flag.**
@@ -56,7 +58,7 @@ A set of rules for a specific Game.
 
 ## Game \(Validated\)
 
-Game has to have more than 2 players per team at the end. So don't leave the game until next map starts, or use `/mastermode 2` \(match mode\).
+Game has to have more than 2 players per team at the end. So don't leave the game until next map starts, or use `/mastermode 2` \(match mode\). Don't change nickname \(shouldn't happen with authenticated users\).
 
 ## GitHub
 
